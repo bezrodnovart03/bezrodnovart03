@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bachelor+of+Information+Systems+and+Technologies,+Far+Eastern+Federal+University)](https://git.io/typing-svg)
-
+[https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BS+Information+Systems,%0AFEFU+Graduate](https://git.io/typing-svg)
 
 <!--
 **bezrodnovart03/bezrodnovart03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
