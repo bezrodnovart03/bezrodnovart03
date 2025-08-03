@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Bachelor+;Information+Systems+and+Technologies%2C+;Far+Eastern+Federal+University)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi%2C+I'm+Artyom+Bezrodnov!;Bachelor+;Information+Systems+and+Technologies%2C+;Far+Eastern+Federal+University)](https://git.io/typing-svg)
 <!--
 **bezrodnovart03/bezrodnovart03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
